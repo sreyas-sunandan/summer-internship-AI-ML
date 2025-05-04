@@ -1,2 +1,2 @@
 # summer-internship-AI-ML
-30.hours
+30.hours internship 
